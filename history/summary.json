@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 283,
-    "timeWeek": 246,
-    "timeMonth": 259,
+    "timeDay": 138,
+    "timeWeek": 221,
+    "timeMonth": 255,
     "timeYear": 271,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.delius.in.ico",
     "slug": "delius-internship",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 907,
-    "timeDay": 958,
-    "timeWeek": 930,
-    "timeMonth": 920,
-    "timeYear": 907,
-    "dailyMinutesDown": {
-      "2025-01-30": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 908,
+    "timeDay": 967,
+    "timeWeek": 935,
+    "timeMonth": 928,
+    "timeYear": 908,
+    "dailyMinutesDown": {}
   }
 ]
