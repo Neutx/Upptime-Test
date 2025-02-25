@@ -22,7 +22,7 @@
     "url": "https://www.delius.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.delius.in.ico",
     "slug": "delius-internship",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
@@ -34,6 +34,7 @@
     "timeMonth": 925,
     "timeYear": 911,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2025-02-21": 35,
       "2025-02-20": 5,
       "2025-02-11": 25,
