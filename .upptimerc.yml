@@ -7,6 +7,10 @@ sites:
     url: https://www.adilparwez.me
   - name: Delius Internship
     url: https://www.delius.in
+  - name: Kreo
+    url: https://kreo-tech.com
+  - name: How India Games
+    url: https://kreo-gamer-survey.vercel.app/
     
 
 status-website:
