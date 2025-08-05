@@ -13,6 +13,8 @@ sites:
     url: https://howindiagames.kreo-tech.com
   - name: Fastest Fingers First
     url: https://fastestfingers.kreo-tech.com
+  - name: Kontrol
+    url: https://kontrol.kreo-tech.com
     
 
 status-website:
