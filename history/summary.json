@@ -51,19 +51,19 @@
     "url": "https://kreo-tech.com",
     "icon": "https://icons.duckduckgo.com/ip3/kreo-tech.com.ico",
     "slug": "kreo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 217,
-    "timeWeek": 419,
-    "timeMonth": 344,
-    "timeYear": 358,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 362,
+    "timeDay": 483,
+    "timeWeek": 479,
+    "timeMonth": 364,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2025-08-07": 0
+      "2025-08-07": 19
     }
   },
   {
