@@ -4,11 +4,11 @@
     "url": "https://www.adilparwez.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.adilparwez.me.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "99.84%",
     "time": 291,
     "timeDay": 1492,
@@ -16,7 +16,7 @@
     "timeMonth": 414,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-09-22": 33,
+      "2025-09-22": 21,
       "2025-08-24": 267,
       "2025-08-23": 541
     }
