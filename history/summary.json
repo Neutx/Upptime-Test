@@ -6,7 +6,7 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "99.85%",
@@ -16,6 +16,7 @@
     "timeMonth": 278,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2025-09-22": 0,
       "2025-08-24": 267,
       "2025-08-23": 541
     }
@@ -111,9 +112,9 @@
     "url": "https://kontrol.kreo-tech.com",
     "icon": "https://icons.duckduckgo.com/ip3/kontrol.kreo-tech.com.ico",
     "slug": "kontrol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -122,6 +123,8 @@
     "timeWeek": 198,
     "timeMonth": 180,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   }
 ]
