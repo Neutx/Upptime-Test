@@ -12,7 +12,7 @@
     "uptimeYear": "99.83%",
     "time": 462,
     "timeDay": 205,
-    "timeWeek": 2469,
+    "timeWeek": 2437,
     "timeMonth": 1884,
     "timeYear": 474,
     "dailyMinutesDown": {
@@ -27,9 +27,9 @@
     "url": "https://www.delius.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.delius.in.ico",
     "slug": "delius-internship",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
@@ -39,6 +39,7 @@
     "timeMonth": 947,
     "timeYear": 1001,
     "dailyMinutesDown": {
+      "2025-10-01": 0,
       "2025-09-03": 16,
       "2025-07-17": 46,
       "2025-04-19": 22,
