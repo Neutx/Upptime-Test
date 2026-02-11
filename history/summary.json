@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.adilparwez.me.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "75.04%",
+    "uptime": "75.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.36%",
+    "uptimeYear": "64.34%",
     "time": 504,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2026-02-10": 1412,
+      "2026-02-11": 49,
+      "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
@@ -214,8 +215,7 @@
       "2025-03-01": 19,
       "2025-02-28": 16,
       "2025-02-21": 35,
-      "2025-02-20": 5,
-      "2025-02-11": 25
+      "2025-02-20": 5
     }
   },
   {
