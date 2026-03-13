@@ -1,7 +1,7 @@
 url: https://www.delius.in
-status: up
-code: 200
-responseTime: 1033
-lastUpdated: 2026-03-13T20:09:04.743Z
+status: down
+code: 415
+responseTime: 961
+lastUpdated: 2026-03-13T21:48:24.624Z
 startTime: 2024-09-07T16:48:35.280Z
 generator: Upptime <https://github.com/upptime/upptime>
