@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.adilparwez.me.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "70.83%",
+    "uptime": "70.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "55.87%",
+    "uptimeYear": "55.85%",
     "time": 509,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2026-03-13": 1389,
+      "2026-03-14": 41,
+      "2026-03-13": 1440,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -191,17 +192,17 @@
     "slug": "delius-internship",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "97.41%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "99.52%",
     "time": 989,
     "timeDay": 926,
     "timeWeek": 924,
-    "timeMonth": 1174,
+    "timeMonth": 1177,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2026-03-13": 25,
+      "2026-03-13": 17,
       "2026-03-12": 40,
       "2026-03-10": 23,
       "2026-03-09": 26,
@@ -261,7 +262,8 @@
       "2025-11-10": 31,
       "2025-10-13": 35,
       "2025-09-03": 16,
-      "2025-07-17": 46
+      "2025-07-17": 46,
+      "2025-04-19": 22
     }
   },
   {
@@ -278,7 +280,7 @@
     "time": 348,
     "timeDay": 272,
     "timeWeek": 281,
-    "timeMonth": 312,
+    "timeMonth": 298,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2026-02-10": 16,
@@ -300,7 +302,7 @@
     "time": 175,
     "timeDay": 219,
     "timeWeek": 185,
-    "timeMonth": 183,
+    "timeMonth": 185,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -318,7 +320,7 @@
     "time": 171,
     "timeDay": 205,
     "timeWeek": 189,
-    "timeMonth": 169,
+    "timeMonth": 172,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -336,7 +338,7 @@
     "time": 169,
     "timeDay": 178,
     "timeWeek": 171,
-    "timeMonth": 164,
+    "timeMonth": 166,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2025-09-22": 21
