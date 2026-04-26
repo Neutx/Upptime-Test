@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.adilparwez.me.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "65.65%",
+    "uptime": "65.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.92%",
+    "uptimeYear": "43.90%",
     "time": 538,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2026-04-26": 851,
+      "2026-04-26": 925,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -233,9 +233,9 @@
     "url": "https://www.delius.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.delius.in.ico",
     "slug": "delius-internship",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "88.46%",
+    "uptimeDay": "88.45%",
     "uptimeWeek": "96.13%",
     "uptimeMonth": "94.33%",
     "uptimeYear": "99.41%",
@@ -285,7 +285,7 @@
       "2026-03-09": 26,
       "2026-03-06": 15,
       "2026-03-05": 19,
-      "2026-03-04": 36
+      "2026-03-04": 19
     }
   },
   {
