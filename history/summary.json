@@ -9,7 +9,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.25%",
+    "uptimeYear": "20.24%",
     "time": 618,
     "timeDay": 0,
     "timeWeek": 0,
@@ -21,7 +21,7 @@
       "2025-09-22": 21,
       "2025-09-23": 52,
       "2025-10-02": 186,
-      "2026-07-21": 1405,
+      "2026-07-21": 1425,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -319,15 +319,15 @@
     "url": "https://www.delius.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.delius.in.ico",
     "slug": "delius-internship",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "77.47%",
-    "uptimeWeek": "78.99%",
-    "uptimeMonth": "88.80%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "76.39%",
+    "uptimeWeek": "78.80%",
+    "uptimeMonth": "88.75%",
+    "uptimeYear": "99.06%",
     "time": 935,
-    "timeDay": 782,
-    "timeWeek": 800,
+    "timeDay": 803,
+    "timeWeek": 803,
     "timeMonth": 809,
     "timeYear": 930,
     "dailyMinutesDown": {
@@ -349,7 +349,7 @@
       "2026-07-18": 503,
       "2026-07-19": 385,
       "2026-07-20": 192,
-      "2026-07-21": 306
+      "2026-07-21": 326
     }
   },
   {
@@ -366,7 +366,7 @@
     "time": 354,
     "timeDay": 489,
     "timeWeek": 305,
-    "timeMonth": 302,
+    "timeMonth": 305,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-08-07": 19,
@@ -392,7 +392,7 @@
     "time": 174,
     "timeDay": 129,
     "timeWeek": 139,
-    "timeMonth": 166,
+    "timeMonth": 162,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -410,7 +410,7 @@
     "time": 176,
     "timeDay": 141,
     "timeWeek": 131,
-    "timeMonth": 213,
+    "timeMonth": 214,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -428,7 +428,7 @@
     "time": 168,
     "timeDay": 135,
     "timeWeek": 123,
-    "timeMonth": 171,
+    "timeMonth": 175,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-09-22": 21
