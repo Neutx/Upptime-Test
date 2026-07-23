@@ -9,7 +9,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.97%",
+    "uptimeYear": "19.96%",
     "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
@@ -21,7 +21,8 @@
       "2025-09-22": 21,
       "2025-09-23": 52,
       "2025-10-02": 186,
-      "2026-07-22": 1403,
+      "2026-07-23": 48,
+      "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -321,17 +322,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.delius.in.ico",
     "slug": "delius-internship",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "78.96%",
-    "uptimeMonth": "88.91%",
-    "uptimeYear": "99.08%",
+    "uptime": "99.50%",
+    "uptimeDay": "91.78%",
+    "uptimeWeek": "79.05%",
+    "uptimeMonth": "88.88%",
+    "uptimeYear": "99.07%",
     "time": 933,
-    "timeDay": 859,
-    "timeWeek": 806,
+    "timeDay": 855,
+    "timeWeek": 807,
     "timeMonth": 812,
     "timeYear": 930,
     "dailyMinutesDown": {
+      "2026-07-03": 22,
       "2026-07-04": 442,
       "2026-07-05": 334,
       "2026-07-06": 299,
@@ -350,7 +352,7 @@
       "2026-07-19": 385,
       "2026-07-20": 192,
       "2026-07-21": 326,
-      "2026-07-22": 127
+      "2026-07-22": 118
     }
   },
   {
@@ -367,7 +369,7 @@
     "time": 354,
     "timeDay": 249,
     "timeWeek": 313,
-    "timeMonth": 303,
+    "timeMonth": 304,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-08-07": 19,
@@ -393,7 +395,7 @@
     "time": 174,
     "timeDay": 144,
     "timeWeek": 145,
-    "timeMonth": 161,
+    "timeMonth": 160,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -411,7 +413,7 @@
     "time": 176,
     "timeDay": 133,
     "timeWeek": 131,
-    "timeMonth": 211,
+    "timeMonth": 167,
     "timeYear": 176,
     "dailyMinutesDown": {}
   },
@@ -429,7 +431,7 @@
     "time": 168,
     "timeDay": 218,
     "timeWeek": 144,
-    "timeMonth": 176,
+    "timeMonth": 175,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-09-22": 21
