@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-11": 707,
+      "2026-10-11": 710,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
@@ -388,16 +388,16 @@
     "url": "https://www.delius.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.delius.in.ico",
     "slug": "delius-internship",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.26%",
     "time": 926,
-    "timeDay": 946,
-    "timeWeek": 888,
-    "timeMonth": 909,
+    "timeDay": 957,
+    "timeWeek": 896,
+    "timeMonth": 910,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2026-07-16": 351,
@@ -432,7 +432,7 @@
       "2026-09-25": 26,
       "2026-09-30": 18,
       "2026-10-04": 51,
-      "2026-10-11": 0
+      "2026-10-11": 3
     }
   },
   {
