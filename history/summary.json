@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 1365,
+      "2026-11-19": 30,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -379,8 +380,7 @@
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
-      "2025-11-20": 1440,
-      "2025-11-19": 1440
+      "2025-11-20": 1440
     }
   },
   {
@@ -390,17 +390,17 @@
     "slug": "delius-internship",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "96.84%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.01%",
     "time": 922,
-    "timeDay": 884,
-    "timeWeek": 874,
+    "timeDay": 902,
+    "timeWeek": 876,
     "timeMonth": 878,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2026-07-16": 192,
+      "2026-07-16": 235,
       "2026-07-17": 235,
       "2026-07-18": 503,
       "2026-07-19": 385,
@@ -436,8 +436,7 @@
       "2026-10-17": 18,
       "2026-10-23": 924,
       "2026-10-22": 435,
-      "2026-11-17": 24,
-      "2026-11-18": 1
+      "2026-11-17": 24
     }
   },
   {
@@ -451,11 +450,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 368,
-    "timeDay": 236,
-    "timeWeek": 583,
-    "timeMonth": 391,
-    "timeYear": 371,
+    "time": 369,
+    "timeDay": 295,
+    "timeWeek": 287,
+    "timeMonth": 396,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-02-10": 16,
@@ -477,9 +476,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 94,
-    "timeWeek": 130,
-    "timeMonth": 143,
+    "timeDay": 241,
+    "timeWeek": 157,
+    "timeMonth": 145,
     "timeYear": 174,
     "dailyMinutesDown": {}
   },
@@ -495,9 +494,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 88,
-    "timeWeek": 168,
-    "timeMonth": 137,
+    "timeDay": 139,
+    "timeWeek": 174,
+    "timeMonth": 140,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -513,9 +512,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 180,
-    "timeWeek": 174,
-    "timeMonth": 199,
+    "timeDay": 234,
+    "timeWeek": 176,
+    "timeMonth": 201,
     "timeYear": 179,
     "dailyMinutesDown": {}
   }
